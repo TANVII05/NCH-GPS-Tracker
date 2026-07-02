@@ -90,11 +90,3 @@ EXPO_PUBLIC_SECRET_KEY=YOUR_SECRET_KEY_HERE
 npx expo start
 ```
 Scan the QR code with the Expo Go app on your physical device (Note: Background GPS tracking works best on physical devices, not emulators).
-
----
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
-
-## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
